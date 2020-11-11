@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PracticasReact/static/css/main.bdac94e1.chunk.css",
+    "main.js": "/PracticasReact/static/js/main.b1102913.chunk.js",
+    "main.js.map": "/PracticasReact/static/js/main.b1102913.chunk.js.map",
+    "runtime-main.js": "/PracticasReact/static/js/runtime-main.febe42fc.js",
+    "runtime-main.js.map": "/PracticasReact/static/js/runtime-main.febe42fc.js.map",
+    "static/js/2.742286fb.chunk.js": "/PracticasReact/static/js/2.742286fb.chunk.js",
+    "static/js/2.742286fb.chunk.js.map": "/PracticasReact/static/js/2.742286fb.chunk.js.map",
+    "index.html": "/PracticasReact/index.html",
+    "static/css/main.bdac94e1.chunk.css.map": "/PracticasReact/static/css/main.bdac94e1.chunk.css.map",
+    "static/js/2.742286fb.chunk.js.LICENSE.txt": "/PracticasReact/static/js/2.742286fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.febe42fc.js",
+    "static/js/2.742286fb.chunk.js",
+    "static/css/main.bdac94e1.chunk.css",
+    "static/js/main.b1102913.chunk.js"
+  ]
+}
