@@ -22,7 +22,7 @@ const CounterApp = ({ value }) => {
 };
 
 CounterApp.propTypes = {
-    value: PropTypes.number,
+    value: PropTypes.number.isRequired,
 };
 
 export default CounterApp;
